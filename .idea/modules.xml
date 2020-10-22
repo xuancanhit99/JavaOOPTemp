@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice_5/Ex_10/Ex_10.iml" filepath="$PROJECT_DIR$/Practice_5/Ex_10/Ex_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_5/Ex_10(2)/Ex_10(2).iml" filepath="$PROJECT_DIR$/Practice_5/Ex_10(2)/Ex_10(2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_5/Ex_11/Ex_11.iml" filepath="$PROJECT_DIR$/Practice_5/Ex_11/Ex_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_5/Ex_12/Ex_12.iml" filepath="$PROJECT_DIR$/Practice_5/Ex_12/Ex_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_2/Ex_1_Author/Ex_1_Author.iml" filepath="$PROJECT_DIR$/Practice_2/Ex_1_Author/Ex_1_Author.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_7/Ex_1_Stack/Ex_1_Stack.iml" filepath="$PROJECT_DIR$/Practice_7/Ex_1_Stack/Ex_1_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_2/Ex_2_Ball/Ex_2_Ball.iml" filepath="$PROJECT_DIR$/Practice_2/Ex_2_Ball/Ex_2_Ball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_7/Ex_2_Queue/Ex_2_Queue.iml" filepath="$PROJECT_DIR$/Practice_7/Ex_2_Queue/Ex_2_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_7/Ex_3_Deque/Ex_3_Deque.iml" filepath="$PROJECT_DIR$/Practice_7/Ex_3_Deque/Ex_3_Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_7/Ex_4_LinkedList/Ex_4_LinkedList.iml" filepath="$PROJECT_DIR$/Practice_7/Ex_4_LinkedList/Ex_4_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_7/Ex_5_GUI/Ex_5_GUI.iml" filepath="$PROJECT_DIR$/Practice_7/Ex_5_GUI/Ex_5_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_5/Ex_9/Ex_9.iml" filepath="$PROJECT_DIR$/Practice_5/Ex_9/Ex_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_1/Lab_1.iml" filepath="$PROJECT_DIR$/Lab_1/Lab_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_10/Lab_10.iml" filepath="$PROJECT_DIR$/Lab_10/Lab_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_12/Lab_12.iml" filepath="$PROJECT_DIR$/Lab_12/Lab_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_16/Lab_16.iml" filepath="$PROJECT_DIR$/Lab_16/Lab_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_2/Lab_2.iml" filepath="$PROJECT_DIR$/Lab_2/Lab_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_3/Lab_3.iml" filepath="$PROJECT_DIR$/Lab_3/Lab_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_4/Lab_4.iml" filepath="$PROJECT_DIR$/Lab_4/Lab_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_5/Lab_5.iml" filepath="$PROJECT_DIR$/Lab_5/Lab_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_6/Lab_6.iml" filepath="$PROJECT_DIR$/Lab_6/Lab_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_7/Lab_7.iml" filepath="$PROJECT_DIR$/Lab_7/Lab_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_8/Lab_8.iml" filepath="$PROJECT_DIR$/Lab_8/Lab_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab_9/Lab_9.iml" filepath="$PROJECT_DIR$/Lab_9/Lab_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_Java.iml" filepath="$PROJECT_DIR$/.idea/OOP_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_1/Practice_1.iml" filepath="$PROJECT_DIR$/Practice_1/Practice_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_11/Practice_11.iml" filepath="$PROJECT_DIR$/Practice_11/Practice_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_12/Practice_12.iml" filepath="$PROJECT_DIR$/Practice_12/Practice_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_16/Practice_16.iml" filepath="$PROJECT_DIR$/Practice_16/Practice_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_3/Practice_3.iml" filepath="$PROJECT_DIR$/Practice_3/Practice_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_4/Practice_4.iml" filepath="$PROJECT_DIR$/Practice_4/Practice_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_6/Practice_6.iml" filepath="$PROJECT_DIR$/Practice_6/Practice_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_8/Practice_8.iml" filepath="$PROJECT_DIR$/Practice_8/Practice_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_9.1/Practice_9.1.iml" filepath="$PROJECT_DIR$/Practice_9.1/Practice_9.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice_9.2/Practice_9.2.iml" filepath="$PROJECT_DIR$/Practice_9.2/Practice_9.2.iml" />
+    </modules>
+  </component>
+</project>
